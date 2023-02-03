@@ -1,14 +1,12 @@
 package mockit;
 
-import java.awt.*;
+import mockit.usage.cut.*;
 import java.lang.reflect.*;
 import java.rmi.*;
 import java.util.concurrent.atomic.*;
 
 import javax.accessibility.AccessibleContext;
 import javax.sound.midi.*;
-import javax.swing.*;
-import javax.swing.plaf.basic.*;
 
 import org.junit.*;
 import org.junit.rules.*;

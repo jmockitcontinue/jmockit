@@ -1,6 +1,6 @@
 package otherTests.testng;
 
-import java.applet.*;
+import mockit.usage.cut.Applet;
 
 import org.testng.annotations.*;
 import static org.testng.Assert.*;

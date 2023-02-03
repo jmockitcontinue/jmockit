@@ -1,6 +1,6 @@
 package mockit;
 
-import javax.swing.*;
+import mockit.usage.cut.*;
 
 import org.junit.*;
 

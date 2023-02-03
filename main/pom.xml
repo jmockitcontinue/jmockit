@@ -152,7 +152,7 @@
                <properties><property><name>junit</name><value>false</value></property></properties>
                <excludes><exclude>**/TestNGViolatedExpectationsTest.class</exclude></excludes>
                <threadCount>1</threadCount>
-               <forkCount>1C</forkCount>
+               <forkCount>1</forkCount>
             </configuration>
             <dependencies>
                <dependency>

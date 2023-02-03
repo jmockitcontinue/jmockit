@@ -3,7 +3,7 @@ package mockit;
 import java.awt.*;
 import java.util.concurrent.*;
 
-import javax.swing.*;
+import mockit.usage.cut.SwingUtilities;
 
 import org.junit.*;
 import static org.junit.Assert.*;

@@ -1,7 +1,6 @@
 package mockit;
 
-import java.applet.*;
-import java.awt.*;
+import mockit.usage.cut.*;
 
 import org.junit.*;
 import org.junit.rules.*;
